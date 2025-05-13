@@ -30,7 +30,7 @@ weddingdb/
 ├── .env                 # Environment variables
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
-└── 
+└── weddng_schema.sql
 
 
 
